@@ -1,0 +1,10 @@
+title       = "orcid"
+baseURL     = "https://orcid-cli.tamnd.com/"
+description = "Fetch researcher profiles from the ORCID public registry."
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/orcid-cli"
